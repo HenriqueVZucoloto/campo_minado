@@ -117,3 +117,9 @@ g++ main.cpp -o agente_genetico -std=c++17 -O2 -lSDL2 -lSDL2_ttf -lpthread
 * O terminal exibirá o progresso de cada geração (melhor fitness, taxa de vitórias).
 * O treinamento pode ser interrompido (`Ctrl+C`) e retomado. O programa carregará o `populacao_regras.dat` e continuará de onde parou.
 * Para iniciar um treinamento do zero, simplesmente delete os dois arquivos `.dat`.
+
+
+**Demonstração**
+
+https://github.com/user-attachments/assets/1d381a52-aef3-4598-beea-bbb7c53e261d
+
